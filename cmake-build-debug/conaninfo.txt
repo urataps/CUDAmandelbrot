@@ -1,0 +1,37 @@
+[settings]
+    arch=x86_64
+    build_type=Release
+    compiler=gcc
+    compiler.libcxx=libstdc++11
+    compiler.version=10
+    os=Linux
+
+[requires]
+    glu/system
+    opengl/system
+
+[options]
+
+
+[full_settings]
+    arch=x86_64
+    arch_build=x86_64
+    build_type=Release
+    compiler=gcc
+    compiler.libcxx=libstdc++11
+    compiler.version=10
+    os=Linux
+    os_build=Linux
+
+[full_requires]
+    glu/system:5ab84d6acfe1f23c4fae0ab88f26e3a396351ac9
+    opengl/system:5ab84d6acfe1f23c4fae0ab88f26e3a396351ac9
+
+[full_options]
+
+
+[recipe_hash]
+
+
+[env]
+
