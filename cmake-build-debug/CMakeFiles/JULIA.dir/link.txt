@@ -1,1 +1,0 @@
-/usr/lib/nvidia-cuda-toolkit/bin/g++ CMakeFiles/JULIA.dir/julia.cu.o CMakeFiles/JULIA.dir/cmake_device_link.o -o JULIA  -Wl,-rpath,/usr/local/lib /usr/lib/x86_64-linux-gnu/libGL.so /usr/lib/x86_64-linux-gnu/libGLU.so /usr/local/lib/libglut.so /usr/lib/x86_64-linux-gnu/libXi.so -lcudadevrt -lcudart_static -lrt -lpthread -ldl  -L"/usr/lib/x86_64-linux-gnu/stubs"

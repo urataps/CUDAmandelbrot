@@ -16,8 +16,8 @@
 #define DIM1 1920
 #define DIM2 1080
 
-#define COLOR_MAX 30
-#define PRECISION 100
+#define COLOR_MAX 150
+#define PRECISION 500
 
 struct cuComplex {
     float   r;
@@ -84,7 +84,7 @@ __global__ void kernel( unsigned char *ptr, float scale ){
 int main(void){
 
     unsigned char    *dev_bitmap;
-    float GPU_scale = 1.2;
+    float GPU_scale = 2;
 
     CPUBitmap bitmap( DIM1, DIM2 ); // GLUT function
     dim3 grid(DIM1, DIM2); // actually a 2 dimensional grid, api naming conventions

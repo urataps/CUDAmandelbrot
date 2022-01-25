@@ -1,1 +1,0 @@
-/usr/lib/nvidia-cuda-toolkit/bin/g++ CMakeFiles/ADD_VECTORS.dir/vector_add.cu.o CMakeFiles/ADD_VECTORS.dir/cmake_device_link.o -o ADD_VECTORS  -lcudadevrt -lcudart_static -lrt -lpthread -ldl  -L"/usr/lib/x86_64-linux-gnu/stubs"

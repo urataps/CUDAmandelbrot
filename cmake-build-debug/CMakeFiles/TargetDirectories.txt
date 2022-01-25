@@ -1,5 +1,0 @@
-/home/alexe/Projects/School/Parallel Computing/CUDA/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/alexe/Projects/School/Parallel Computing/CUDA/cmake-build-debug/CMakeFiles/JULIA.dir
-/home/alexe/Projects/School/Parallel Computing/CUDA/cmake-build-debug/CMakeFiles/MANDELBROT.dir
-/home/alexe/Projects/School/Parallel Computing/CUDA/cmake-build-debug/CMakeFiles/ADD_VECTORS.dir
-/home/alexe/Projects/School/Parallel Computing/CUDA/cmake-build-debug/CMakeFiles/edit_cache.dir

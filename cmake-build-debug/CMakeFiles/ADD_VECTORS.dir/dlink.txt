@@ -1,1 +1,0 @@
-/usr/bin/nvcc  -g -Xcompiler=-fPIC -Wno-deprecated-gpu-targets -shared -dlink CMakeFiles/ADD_VECTORS.dir/vector_add.cu.o -o CMakeFiles/ADD_VECTORS.dir/cmake_device_link.o  -lcudadevrt -lcudart_static -lrt -lpthread -ldl  -L"/usr/lib/x86_64-linux-gnu"
