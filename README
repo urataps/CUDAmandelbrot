@@ -1,5 +1,5 @@
 Basic examples for using CUDA, some are based from the book "CUDA by Example"
 
-For running julia.cu, opengl and glut libraries are needed. Make sure cmake can find your libraries.
+For running julia.cu and mandelbrot.cu, opengl and glut libraries are needed. Make sure cmake can find your libraries.
 
 GLUT can be installed from http://freeglut.sourceforge.net/docs/install.php
